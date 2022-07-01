@@ -1,0 +1,29 @@
+.selectComponent {
+  width: 100% !important;
+  height: 52px !important;
+  background-color: #242424;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  outline: none !important;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.selectComponent option {
+  width: 100% !important;
+  height: 54px !important;
+  background-color: #242424;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  outline: none !important;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  box-sizing: border-box;
+  padding: 10px;
+}

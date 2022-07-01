@@ -1,0 +1,18 @@
+.pageNotFound {
+  color: red;
+  font-size: 56px;
+  display: flex;
+  flex-direction: column;
+}
+
+.backButton {
+  height: 50px;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+.backButton:hover {
+  background-color: red;
+  color: rgb(194, 190, 190);
+}
